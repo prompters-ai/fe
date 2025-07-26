@@ -67,3 +67,4 @@ export default tseslint.config([
   },
 ])
 ```
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/prompters-ai/fe?utm_source=oss&utm_medium=github&utm_campaign=prompters-ai%2Ffe&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
